@@ -1,0 +1,5 @@
+package module6 // import "."
+
+func FunctionForModule6GoDoc()
+    this is the only one function in module 6 code
+
